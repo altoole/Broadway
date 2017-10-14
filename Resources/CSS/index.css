@@ -1,7 +1,6 @@
 html {
   font-family: helvetica;
   text-align: center;
-  background-image: url("./Resources/Images/building.png")
 }
 
 h1 {
@@ -10,10 +9,14 @@ h1 {
   color: white;
 }
 
-nav {
+#header {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+#nav p {
   font-size: 18px;
   font-weight: bold;
-  color: white;
+  color: white
 }
 
 h2 {
@@ -34,5 +37,5 @@ p {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url("./Resources/Images/building.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
