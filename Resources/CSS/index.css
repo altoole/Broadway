@@ -16,7 +16,10 @@ h1 {
 #nav p {
   font-size: 18px;
   font-weight: bold;
-  color: white
+}
+
+a {
+  color: white;
 }
 
 h2 {
